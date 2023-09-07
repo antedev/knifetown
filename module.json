@@ -1,0 +1,19 @@
+{
+  "id": "knifetown",
+  "name": "knifetown",
+  "title": "Knifetown stuff",
+  "description": "Knifetown gaming stuffs",
+  "authors": [
+    {
+    "name": "Andreas Danielsson"
+    }
+  ],
+  "scripts": [
+    "./scripts/hello.js"
+  ],
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}
