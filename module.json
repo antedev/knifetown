@@ -12,6 +12,14 @@
   "scripts": [
     "./scripts/hello.js"
   ],
+  "macros": [
+    {
+       "name": "HelloWorld",
+       "type": "script",
+       "command": "./macros/helloWorld.js",
+       "flags": {}
+    }
+ ],
   "version": "0.1.1",
   "compatibility": {
     "minimum": "10",
