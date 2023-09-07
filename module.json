@@ -29,7 +29,8 @@
       "private": false,
       "system": "pf2e"
     }
-  ],  
+  ], 
+  "coreVersion": "11",
   "version": "0.1.2",
   "system": "pf2e",
   "compatibility": {
