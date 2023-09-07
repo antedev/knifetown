@@ -26,7 +26,8 @@
       "label": "Knifetown Macros",
       "path": "./packs/macros.db",
       "type": "Macro",
-      "entity": "Macro"
+      "private": false,
+      "system": "pf2e"
     }
   ],  
   "version": "0.1.2",
