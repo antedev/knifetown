@@ -3,6 +3,7 @@
   "name": "knifetown",
   "title": "Knifetown stuff",
   "description": "Knifetown gaming stuffs",
+  "download": "https://github.com/antedev/kniftown/releases/download/v0.1.0/kniftown.zip",
   "authors": [
     {
     "name": "Andreas Danielsson"
