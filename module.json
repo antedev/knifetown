@@ -20,6 +20,14 @@
        "flags": {}
     }
  ],
+ "packs": [
+    {
+      "name": "macros",
+      "label": "Knifetown Macros",
+      "path": "./packs/macros.db",
+      "entity": "Macro"
+    }
+  ],  
   "version": "0.1.1",
   "compatibility": {
     "minimum": "10",
