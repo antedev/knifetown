@@ -3,7 +3,7 @@
   "name": "knifetown",
   "title": "Knifetown stuff",
   "description": "Knifetown gaming stuffs",
-  "download": "https://github.com/antedev/knifetown/archive/refs/tags/v0.1.1.zip",
+  "download": "https://github.com/antedev/knifetown/archive/refs/tags/v0.1.2.zip",
   "authors": [
     {
     "name": "Andreas Danielsson"
@@ -28,7 +28,7 @@
       "entity": "Macro"
     }
   ],  
-  "version": "0.1.1",
+  "version": "0.1.2",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
