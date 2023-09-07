@@ -25,7 +25,7 @@
       "name": "macros",
       "label": "Knifetown Macros",
       "path": "./packs/macros.db",
-      "type": "script",
+      "type": "Macro",
       "entity": "Macro"
     }
   ],  
