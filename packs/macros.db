@@ -2,9 +2,8 @@
   {
     "name": "helloWorld",
     "type": "script",
-    "img": "icons/some-icon.png",
     "command": `
-    const message = "Hello from the Knifetown module!";
+    const message = "Hello from the module!";
     ChatMessage.create({ content: message });
     `,
     "flags": {}
