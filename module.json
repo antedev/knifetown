@@ -3,7 +3,7 @@
   "name": "knifetown",
   "title": "Knifetown stuff",
   "description": "Knifetown gaming stuffs",
-  "download": "https://github.com/antedev/knifetown/archive/refs/tags/v0.1.2.zip",
+  "download": "https://github.com/antedev/knifetown/archive/refs/tags/v0.1.3.zip",
   "authors": [
     {
     "name": "Andreas Danielsson"
@@ -29,8 +29,7 @@
       "private": false
     }
   ], 
-  "coreVersion": "11",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "system": "pf2e",
   "compatibility": {
     "minimum": "10",
