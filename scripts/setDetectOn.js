@@ -4,7 +4,11 @@ if (!token) {
   return;
 }
 
-// Add code to se if the actor even knows the spell! Let's assume it does for now...
+let isPrepared = token.actor.items.filter((item) => item.type === "spell" && item.spellcasting.isPrepared).find((spell) => spell.name === "Detect Magic")
+if(isPrepared === undefined) {
+    ui.notifications.warn("Oi! You don't know how to Detect Magic!!");
+    return;
+}
 
 // Set the switch
 let isDetecting = token.document.getFlag("world", "isDetecting");
